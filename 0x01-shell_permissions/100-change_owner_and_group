@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo shown vincent:staff *
+chown vincent:staff *
