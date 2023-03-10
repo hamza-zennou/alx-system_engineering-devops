@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo shown betty hello
+chown betty Hello 
