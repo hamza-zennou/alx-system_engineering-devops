@@ -1,1 +1,1 @@
-0x03. Shell, init files, variables and expansions redeame file
+0x03. Shell, init files, variables and expansions readme file
